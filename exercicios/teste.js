@@ -1,18 +1,4 @@
-<<<<<<< HEAD
-let DNA = ATGCCGAAATTTGCG
-
-let RNA = UACGGCUUUAAACGC
-
-
-
-// | DNA | RNA |
-// | --- | --- |
-// | G   | C   |
-// | C   | G   |
-// | T   | A   |
-// | A   | U   |
-=======
-/*for(let i = 0; i < 10; i++){ 
+1   1/*for(let i = 0; i < 10; i++){ 
     console.log(`estamos no numero ${i}`)
 }*/
 
@@ -80,4 +66,4 @@ console.log(outroArray)
 
 
 
->>>>>>> 3c4b1f2252c33c2639788b8255d820642dd43112
+
